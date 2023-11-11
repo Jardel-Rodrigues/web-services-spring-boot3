@@ -1,4 +1,4 @@
-package com.softstream.web.services.resources;
+package com.softstream.web.services.controllers;
 
 import java.util.List;
 

@@ -13,7 +13,7 @@ import com.softstream.web.services.entities.Product;
 import com.softstream.web.services.services.ProductService;
 
 @RestController
-@RequestMapping(value = "/products")
+@RequestMapping(value = "/productcs")
 public class ProductResource {
 	
 	@Autowired
